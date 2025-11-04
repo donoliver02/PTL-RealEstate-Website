@@ -86,6 +86,27 @@ const Services = () => {
               <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>Adyar</span></div>
               <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>Porur</span></div>
               <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>Tambaram</span></div>
+              <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>Sholinganallur</span></div>
+              <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>Kelambakkam</span></div>
+              <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>Mahabalipuram</span></div>
+              <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>Panaiyur</span></div>
+              <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>Peravallur</span></div>
+              <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>Chengalpattu</span></div>
+              <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>Neelankarai</span></div>
+              <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>Thiruvanmiyur</span></div>
+              <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>Besant Nagar</span></div>
+              <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>Mylapore</span></div>
+              <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>Alwarpet</span></div>
+              <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>Teynampet</span></div>
+              <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>Nungambakkam</span></div>
+              <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>Chetpet</span></div>
+              <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>Thousand Lights</span></div>
+              <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>Egmore</span></div>
+              <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>Purasawalkam</span></div>
+              <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>Triplicane</span></div>
+              <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>Chepauk</span></div>
+              <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>Basilica</span></div>
+              <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>Georgetown</span></div>
               <div className="flex items-center space-x-2"><span className="text-blue-300 font-bold">•</span><span>And More...</span></div>
             </div>
           </div>
